@@ -1,0 +1,14 @@
+
+<!DOCTYPE html>
+<html>
+<head>  <h1></h1>
+</head>
+<body style="background-color:#000000;">
+	<div align = "center">
+ <textarea rows="20" cols="50" style="background-color: black; color: white; font-size: 18pt;" id="myText">
+This project, inspired by Shelley Jackson&#39;s &#34;The Body,&#34; seeks to ground poetic description of the body in the physicality of its author&#39;s body. The intent is not to conflate a first person narrator with the poet themselves, but rather to take the abstract, disembodied words of poetry and prose and connect them to the corporeality of the person who created them. Good writing reminds us of our shared humanity, which is a major reason poets often refer to the body. All three poets bring a different dimension to their bodily experiences. Siken and Vuong both bring elements of queerness and trauma to their works, with Vuong emphasizing the generational trauma inherited from his Vietnamese mother. Plath&#39;s description of the female body speaks to an interplay between ownership and subjugation to the male gaze. They each inhabit and write from a body that is distinctly theirs, but universal in its humanity.
+	By seeing the poets&#39; words in connection with their respective bodies, the reader gets the opportunity to reconnect the voice with the body that produced it. This hyperfocus on the body is not intended to be objectifying, but rather to offer another perspective on their words. 
+ </textarea>
+</div>
+</body>
+</html>
