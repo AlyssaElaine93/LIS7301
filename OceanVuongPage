@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<head>  <h1></h1>
+</head>
+<body style="background-color:#000000;">
+    <img src="https://mediad.publicbroadcasting.net/p/shared/npr/styles/x_large/nprshared/201909/764983809.jpg" height="667" width="1000" usemap="#body" border="0"/> 
+    <map name="body" id="body">
+    	<area shape="rect" coords="428,211,488,227" href="" class="quote" title="And this is how we loved: a fifth of vodka and an afternoon in the attic, your fingers sweeping through my hair &#8212; my hair a wildfire." />
+    	<area shape="rect" coords="428,232,477,242" href="" class="quote" title="You once told me that memory is a choice. But if you were god, you'd know it's a flood." />
+    	<area shape="rect" coords="423,247,467,253" href="" class="quote" title="You once told me that the human eye is god's loneliest creation. How so much of the world passes through the pupil and still it holds nothing. The eye, alone in its socket, doesn't even know there's another one, just like it, an inch away, just as hungry, as empty." />
+    	<area shape="rect" coords="437,273,459,284" href="" class="quote" title="Sometimes I ask for too much just to feel my mouth overflow." />
+    	<area shape="rect" coords="481,249,489,272" href="" class="quote" title="Because a bullet without a body is a song without ears" />
+    	<area shape="rect" coords="434,296,477,307" href="" class="quote" title="The truth is we can survive our lives, but not our skin. But you know this already." />
+    	<area shape="rect" coords="392,389,487,443" href="" class="quote" title="Tell me it was for the hunger & nothing less. For hunger is to give the body what it knows it cannot keep." />
+    	<area shape="rect" coords="316,410,414,471" href="" class="quote" title="Your father is only your father until one of you forgets. Like how the spine won't remember its wings no matter how many times our knees kiss the pavement" />
+    	<area shape="rect" coords="393,403,465,439" href="" class="quote" title="Our hands empty except for our hands." />
+    	<area shape="rect" coords="493,334,550,409" href="" class="quote" title="You, drowning between my arms&#8212; stay. You, pushing your body into the river only to be left with yourself&#8212; Stay." />
+    	<area shape="rect" coords="300,559,448,667" href="" class="quote" title="My footsteps on the sidewalk were the smallest flights. Dear god, if you are a season, let it be the one I passed through to get here. Here. That's all I wanted to be. I promise." />
+
+
+        </map>
+</body>
+</html>
