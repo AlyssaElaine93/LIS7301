@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+<head>  <h1></h1>
+</head>
+<body style="background-color:#000000;">
+    <img src="http://photos1.blogger.com/hello/252/2501/320/richardsiken.jpg" height="320" width="241" usemap="#body" border="0"/> 
+    <map name="body" id="body">
+    	<area shape="rect" coords="130,138,161,179" href="" class="quote" title="A man takes his sadness down to the river and throws it in the river but then he&#39;s still left with the river. A man takes his sadness and throws it away but then he&#39;s still left with his hands." />
+        <area shape="rect" coords="48,154,76,180" href="" class="quote" title="Hello, darling. Sorry about that. Sorry about the bony elbows, sorry we lived here, sorry about the scene at the bottom of the stairwell and how I ruined everything by saying it out loud. Especially that, but I should have known. You see, I take the parts that I remember and stitch them back together to make a creature that will do what I say or love me back." />
+        <area shape="rect" coords="69,111,97,132" href="" class="quote" title="and this is the map of my heart, the landscape after cruelty which is, of course, a garden, which is a tenderness, which is a room, a lover saying Hold me tight, it’s getting cold." />
+        <area shape="rect" coords="94,52,115,61" href="" class="quote" title="You wanted happiness, I can&#39;t blame you for that, and maybe a mouth sounds idiotic when it blathers on about joy but tell me you love this, tell me you&#39;re not miserable. " />
+        <area shape="rect" coords="55,83,148,124" href="" class="quote" title="with this bullet lodged in my chest, covered with your name, I will turn myself into a gun, because it&#39;s all I have, because I&#39;m hungry and hollow and just want something to call my own. I&#39;ll be your slaughterhouse, your killing floor, your morgue and final resting, walking around with this bullet inside me &#39;cause I couldn&#39;t make you love me and I’m tired of pulling your teeth. " />
+        <area shape="rect" coords="77,180,135,207" href="" class="quote" title="We clutch our bellies and roll on the floor...When I say this, it should mean laughter, not poison." />
+        <area shape="rect" coords="88,12,126,31" href="" class="quote" title="Inside your head you hear a phone ringing and when you open your eyes only a clearing with deer in it. Hello deer. Inside your head the sound of glass, a car crash sound as the trucks roll over and explode in slow motion. Hello darling, sorry about that." />
+
+
+        </map>
+</body>
+</html>
